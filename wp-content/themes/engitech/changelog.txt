@@ -1,0 +1,71 @@
+28/02/2023 - Version 1.6.0
+- Updated: Revolution Slider latest version 6.6.11
+- Added: Add new 2 homepage: NFT Marketplace, Investment Solution
+- Files Updated: style.css, plugin-requires.php, elementor.js, importer.php
+
+17/01/2023 - Version 1.5.0
+- Updated: Theme compatible with Elementor 3.10.0
+- Added: Add new 3 homepage: IT Solution, AI Solution, Payment Solution
+- Added: Add new option to change the item active default for Engitech Accordions widget element.
+- Files Updated: style.css, elementor.js, importer.php, elementor.php, elementor-widgets/*.php, elementor-widgets/header/*.php
+
+20/12/2022 - Version 1.4.6
+- Updated: Revolution Slider latest version 6.6.8
+- Added: Add the html tag option for Page title in theme option.
+- Fixed: Fix the slider button nav style in blog single page
+- Fixed: Fix the Entry Media for all post format in Engitech Post Grid widget element
+- Files Updated: customizer.php, page-header.php, content-single.php, post-grid.php, style.css
+
+21/11/2022 – Version: 1.4.5
+- Updated: Slider Revolution 6.6.5
+- Updated: Theme compatible with Elementor 3.8.1
+- Updated: Template product searchform to version 7.0.1
+- Fixed: Two H1 tags on single blog page
+- Fixed: In some cases the Circle progress widget doesn't work.
+- Fixed: Testimonial Slider widget can't change alt attribute in image tag
+- Update files: style.css, plugin-requires.php, product-searchform.php, 
+content-single.php, testimonial-carousel.php, testimonial-carousel-2.php, 
+testimonial-carousel-3.php, testimonial-carousel-4.php, elementor.js
+
+07/10/2022 - Version: 1.4.4
+- Updated: Theme compatible with Slider Revolution 6.6.1
+- Updated: Theme compatible with PHP 8+
+- Fixed: Minor fixes CSS code.
+- Update files: style.css, plugin-requires.php
+
+04/08/2022 - Version: 1.4.3
+- Updated: Theme compatible with Slider Revolution 6.5.25
+- Updated: Change page title color and breadcrumbs color on page header
+- Added: Add option select Blog Style Layout
+- Fixed: Minor fixes CSS code.
+- Update files: style.css, customizer.php, index.php, archive.php, template-functions.php, plugin-requires.php
+
+07/06/2022 - Version: 1.4.2.1
+- Updated: Theme compatible with WordPress 6.0
+- Updated: Theme compatible with Slider Revolution 6.5.24
+- Updated: Theme compatible with Elementor 3.6.5
+- Fixed: Minor fixes css code.
+- Update files: style.css, plugin-requires.php
+
+09/03/2022- Version: 1.4.2
+- Updated: WordPress 5.9.x
+- Updated: Slider Revolution 6.5.17
+- Updated: Elementor 3.5.6
+- Fixed: Error when upload image in author-widget
+- Added: Add option select Side Panel Icon in Side Panel Widget
+- Update files: style.css, plugin-requires.php, upload_media_widget.js, elementor.php, side-panel.php
+
+28/01/2022- Version: 1.4.1
+- Updated: Theme compatible Kirki plugin latest version.
+- Fixed: Error when using multiple TabTitle widgets on page
+- Update files: functions.php, color.php, scripts.js
+
+29/12/2021 - Version: 1.3.2.1
+- Updated: Slider Revolution latest version 6.5.12
+- Updated: Option select Header builder and Footer builder in Customizer compatible width WPML
+- Update files: plugin-requires.php, functions.php, builder.php, style.css
+
+05/02/2021 - Version: 1.2.1
+- Updated: Slider Revolution latest version 6.3.9
+- Updated: Theme compatible with Elementor version 3.1.x
+- Update files: plugin-requires.php, style.css
