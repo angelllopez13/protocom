@@ -86,7 +86,7 @@ class Engitech_Post_Grid extends Widget_Base{
 			[
 				'label' => 'Button',
 				'type' => Controls_Manager::TEXTAREA,
-				'default' => __( '<i class="flaticon-right-arrow-1"></i>LEARN MORE', 'engitech' ),
+				'default' => __( '<i class="flaticon-right-arrow-1"></i>Leer más', 'engitech' ),
 			]
 		);
 
